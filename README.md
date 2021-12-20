@@ -1,2 +1,2 @@
-# info-page
- React Practice for Scrimba Course
+# static-info-page
+React Practice for Scrimba Course

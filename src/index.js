@@ -1,12 +1,5 @@
-const navBar = (
-    <nav>
-        <h1>Heading</h1>
-        <ul>
-            <li>Page 1</li>
-            <li>Page 2</li>
-            <li>Page 3</li>
-        </ul>
-    </nav>
-)
+import React from "react"
+import ReactDOM from "react-dom"
+import App from "./App"
 
-ReactDOM.render(navBar, document.getElementById("root"))
+ReactDOM.render(<App />, document.getElementById("root"))
